@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\Tugas5_PBKK\Tugas5_PBKK\Tugas5_PBKK\bin\Debug\netstandard2.0\Tugas5_PBKK.deps.json
+C:\Users\ASUS\source\repos\Tugas5_PBKK\Tugas5_PBKK\Tugas5_PBKK\bin\Debug\netstandard2.0\Tugas5_PBKK.dll
+C:\Users\ASUS\source\repos\Tugas5_PBKK\Tugas5_PBKK\Tugas5_PBKK\bin\Debug\netstandard2.0\ref\Tugas5_PBKK.dll
+C:\Users\ASUS\source\repos\Tugas5_PBKK\Tugas5_PBKK\Tugas5_PBKK\bin\Debug\netstandard2.0\Tugas5_PBKK.pdb
+C:\Users\ASUS\source\repos\Tugas5_PBKK\Tugas5_PBKK\Tugas5_PBKK\obj\Debug\netstandard2.0\Tugas5_PBKK.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\Tugas5_PBKK\Tugas5_PBKK\Tugas5_PBKK\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ASUS\source\repos\Tugas5_PBKK\Tugas5_PBKK\Tugas5_PBKK\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\ASUS\source\repos\Tugas5_PBKK\Tugas5_PBKK\Tugas5_PBKK\obj\Debug\netstandard2.0\Tugas5_PBKK.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\Tugas5_PBKK\Tugas5_PBKK\Tugas5_PBKK\obj\Debug\netstandard2.0\Tugas5_PBKK.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\Tugas5_PBKK\Tugas5_PBKK\Tugas5_PBKK\obj\Debug\netstandard2.0\Tugas5_PBKK.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Tugas5_PBKK\Tugas5_PBKK\Tugas5_PBKK\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\ASUS\source\repos\Tugas5_PBKK\Tugas5_PBKK\Tugas5_PBKK\obj\Debug\netstandard2.0\Tugas5_PBKK.dll
+C:\Users\ASUS\source\repos\Tugas5_PBKK\Tugas5_PBKK\Tugas5_PBKK\obj\Debug\netstandard2.0\ref\Tugas5_PBKK.dll
+C:\Users\ASUS\source\repos\Tugas5_PBKK\Tugas5_PBKK\Tugas5_PBKK\obj\Debug\netstandard2.0\Tugas5_PBKK.pdb
